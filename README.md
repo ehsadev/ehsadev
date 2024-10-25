@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="ehsan skills">
 <!--
 **ehsadev/ehsadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
