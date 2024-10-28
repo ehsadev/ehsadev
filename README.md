@@ -1,16 +1,21 @@
-## Hi there 👋
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="ehsan skills">
-<!--
-**ehsadev/ehsadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h2>Python</h2>
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask" alt="Python Stack">
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h2>Javascript</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,prisma,nodejs,deno,vite" alt="JavaScript Stack">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h2>DataBase</h2>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch,redis,rabbitmq,mongo" alt="DataBase Stack">
+</div>
+
+<div>
+  <h2>Other</h2>
+  <img src="https://skillicons.dev/icons?i=sass,tailwindcss,bootstrap,materialui" alt="Style Stack">
+  <img src="https://skillicons.dev/icons?perline=12&i=linux,docker,kubernetes,nginx" alt="DevOps Stack">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Source Control">
+</div>
