@@ -5,7 +5,7 @@
 
 <div>
   <h2>Javascript</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,elysia,prisma,nodejs,bun,deno,vite" alt="JavaScript Stack">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,elysia,prisma,nodejs,bun,deno,vite,webpack" alt="JavaScript Stack">
 </div>
 
 <div>
