@@ -1,3 +1,9 @@
+<h1>Welcome to <strong> Ehsan's </strong> GitHub Profile!</h1>
+
+<p>
+Hello, my name is <strong> Ehsan </strong>, a dedicated and skilled Web Developer with a strong foundation in Python and JavaScript. I am 25 years old and hold a Bachelor’s degree in Electrical Power Engineering. My journey in web development has been driven by a commitment to continuous learning and an enthusiasm for creating efficient, scalable solutions. Please feel free to explore my projects and contributions, and do not hesitate to connect if you would like to collaborate or discuss technology.
+</p>
+
 <div>
   <h3>Python</h3>
   <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask" alt="Python Stack">
